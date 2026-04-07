@@ -3519,6 +3519,15 @@
       }
     },
     {
+      "displayName": "Iberdrola | BP Pulse",
+      "locationSet": {"include": ["es", "pt"]},
+      "tags": {
+        "amenity": "charging_station",
+        "operator": "Iberdrola | BP Pulse ",
+        "operator:wikidata": "Q138975809"
+      }
+    },
+    {
       "displayName": "Ibil",
       "id": "ibil-97d7cf",
       "locationSet": {"include": ["es"]},
